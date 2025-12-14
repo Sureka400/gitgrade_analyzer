@@ -1,0 +1,5 @@
+How to run this?
+Install requirements:
+python -m pip install streamlit requests
+Then run this:
+python -m streamlit run app.py
